@@ -2,12 +2,12 @@
 
 import Image from "next/image";
 
-// import Component from "@t-apps/ui"
+import { TButton, TInput, TNavbar } from "@t-apps/ui"
 
 export default function Home() {
     return (
 		<>
-			
+    
 		</>
     );
 }
